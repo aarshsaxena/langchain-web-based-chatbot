@@ -25,7 +25,7 @@ Ensure you have the following dependencies installed:
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/conversational-ai-flask.git
+   git clone https://github.com/aarshsaxena/langchain-web-based-chatbot.git
    cd conversational-ai-flask
 
 2. Install Dependencies
